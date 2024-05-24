@@ -3,6 +3,8 @@
 I recently dove into a comprehensive analysis of our sales data, focusing on key columns such as Order ID, Product, Quantity Ordered, Price Each, Order Date, and Purchase Address. 
 📈 Through extensive exploratory data analysis (EDA), I unearthed valuable insights that can guide our strategic decisions. 
 Here are some highlights:
+
+
 🏙️ **Top Performing City:** After digging into the data, it's clear that San Francisco takes the lead in terms of the highest sales. The vibrant energy and strong purchasing power make it a key market for our products.
 
 🚀 **Best-selling Product:** Our star product, USB CHARGING CABLE, emerged as the top performer in terms of sales volume. Its popularity signifies a strong demand and an opportunity for targeted marketing strategies.
